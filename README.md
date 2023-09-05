@@ -1,1 +1,1 @@
-# My NeoVim Config in Vim Script
+# My NeoVim Config using Vim Script
